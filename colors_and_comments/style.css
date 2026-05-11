@@ -1,0 +1,56 @@
+h1 {
+    /* using color green*/
+    /* color: green; */
+/* rgb */
+/* color: rgb(125, 0, 125); */
+
+/* hexdecimal */
+color:#ff0;
+}
+
+
+
+h2 {
+   /* hexadecimal*/ 
+    color : #ccc;
+}
+
+
+
+
+body {
+background:rgb(0, 0, 0);
+}
+div {
+    color: rgb(255, 255, 255);
+    height: 50px;
+     width: 50px;
+     background-color: rgba(255, 0, 0 ,0.6);
+     
+}
+
+body { 
+
+    #red {
+        color: red;
+    }
+    #orange {
+        color: orange;
+    }
+
+    #yellow {
+        color: yellow;
+    }
+    #green {
+        color: green;
+    }
+    #blue {
+        color: blue;
+    }
+    #indigo {
+        color: indigo;
+    }
+    #violet {
+        color: violet;
+    }
+}
