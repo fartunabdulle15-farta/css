@@ -1,0 +1,57 @@
+h1 {
+    border: violet 10px solid;;
+   
+    border-radius: 20px;
+
+outline-style: dashed;
+outline-width: 10px;
+outline-color: seagreen;
+outline-offset: 10px;
+
+}
+
+p {
+    border-style:dotted ;
+}
+span {
+    border-style: solid;
+    color: skyblue;
+} 
+
+
+
+.dotted{
+    border-style: dotted;
+}
+.dashed{
+    border-style: dashed;
+}
+.solid{
+    border-style: solid;
+}
+.double { 
+    border-style: double;
+}
+
+.groove {
+    border-style: groove;
+}
+.ridge {
+    border-style: ridge;
+}
+.inset {
+    border-style: inset;
+}
+div.outset {
+    border-style: outset;
+}
+.none {
+    border-style: none;
+}
+.hidden {
+    border-style: hidden;
+}
+.mixed {
+    border-style: mixed;
+}
+
