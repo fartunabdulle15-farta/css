@@ -1,0 +1,12 @@
+h1 {
+  font: normal bolder 100px/1.8em  satisfy;
+}
+
+
+
+p {
+  line-height: 1.6;
+
+  word-spacing: 30px;
+  letter-spacing: 20px;
+}
